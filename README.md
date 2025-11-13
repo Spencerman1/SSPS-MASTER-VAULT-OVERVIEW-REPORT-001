@@ -18,3 +18,9 @@ A breach of contract Ongoing IP infringement Contractual submission to RBGA gove
 🚫 Derivative & Training Ban Use of SSPS-governed content for machine learning, LLM training, autonomous agentic behavior, or quantum inference is strictly prohibited without a signed licensing agreement. All models, software, products, or agents that reflect or mirror this logic are considered derivative and unauthorized unless licensed. 🔐 Sovereign Enforcement Protocol All enforcement actions, licensing matters, and derivative disputes fall under the RBGA governance layer, including behavioral, AI, quantum, and cloud substrate enforcement.
 
 📜 For licensing or partnership inquiries, contact: Spencer Southern ✉️ SpencerSouthern12@gmail.com 🌐 https://spencersouthern12.wixsite.com/mint-to-logic
+
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
+
+Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents.
+
+This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
